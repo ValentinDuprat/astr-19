@@ -14,6 +14,6 @@ def main():
     if result > 27:
         print("YAY!")
 
-# Run the main function
 if __name__ == "__main__":
     main()
+#This bottom main directs all the code above to run its function
